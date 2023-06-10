@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1100ed3d-911b-4b67-b28a-df5f6285cd53" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -141,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686434216857</updated>
-      <workItem from="1686434218445" duration="342000" />
+      <workItem from="1686434218445" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1686434325532</created>
@@ -164,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686434558484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1686434605178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686434605178</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
